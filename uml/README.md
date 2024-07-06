@@ -1,1 +1,1 @@
-![Diagrama](https://imgur.com/a/GuGAEEX)
+![Diagrama](dio-trilha-java-basico/uml/diagrama.png)
